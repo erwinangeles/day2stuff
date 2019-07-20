@@ -1,0 +1,24 @@
+body {
+    background-color: white;
+}
+h1 {
+    background-color: black;
+    color: white;
+    
+}
+.center {
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+}
+.row {
+    display: table;
+    width: 100;
+    table-layout: fixed;
+    border-spacing: 10px;
+}
+.column
+{
+    display: table-cell;
+    padding: 10px;
+}
